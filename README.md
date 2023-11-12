@@ -2,7 +2,7 @@
 인프라 엔지니어가 되기 위한 파이썬 공부 및 코테 준비
 
 ### 프로그래머스 문제 깃허브 기록 및 파이썬 파일 생성 자동화하기 (make_py.sh)
-https://velog.io/@5p2rs5/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AC%B8%EC%A0%9C-%ED%92%80%EA%B8%B0-%EB%B0%8F-%EA%B8%B0%EB%A1%9D%EC%9D%84-%EC%9E%90%EB%8F%99%ED%99%94
+[https://url.kr/xrpnjf]
 
 ## LV1
 ### 11.11    
