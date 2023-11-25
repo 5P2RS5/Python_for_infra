@@ -18,6 +18,7 @@ if [ -z "$3" ]; then
             exit
         fi
     fi
+    echo $1.py 파일 생성중....
     # 파일 생성하기
     touch $HOME/documents/github/Python_for_infra/BOJ/$1.py
 
