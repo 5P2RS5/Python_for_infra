@@ -34,7 +34,7 @@ else
     # 폴더가 없을 때
     if [ ! -d "$HOME/documents/github/Python_for_infra/programmers/$3" ] ; then
         echo "폴더가 없습니다." $3"폴더를 생성합니다 🗂️"
-        mkdir ~/documents/github/Python_for_infra/programmers/$1
+        mkdir ~/documents/github/Python_for_infra/programmers/$3
     fi
 
     if [ -f "$HOME/documents/github/Python_for_infra/programmers/$3/$1.py" ] ; then
